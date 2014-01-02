@@ -1,0 +1,21 @@
+shot-putt/htholesh.png
+Freeland Holes Medium\Difficulty: Medium\Author: A. Del Santo & G. Frate
+map-htholesh/b1.sol back/blues.png   2  bgm/track1.ogg
+map-htholesh/b1.sol back/blues.png   2  bgm/track2.ogg
+map-htholesh/b2.sol back/red_wht.png   2  bgm/track3.ogg
+map-htholesh/b3.sol back/ocean.png   2  bgm/track2.ogg
+map-htholesh/b4.sol back/red_wht.png   2  bgm/track1.ogg
+map-htholesh/b5.sol back/ocean.png   3  bgm/track4.ogg
+map-htholesh/b6.sol back/org_yel.png   2  bgm/track5.ogg
+map-htholesh/b7.sol back/red_wht.png   2  bgm/track6.ogg
+map-htholesh/b8.sol back/ocean.png   3  bgm/track5.ogg
+map-htholesh/b9.sol back/red_wht.png   2  bgm/track4.ogg
+map-htholesh/b10.sol back/red_wht.png   4  bgm/track3.ogg
+map-htholesh/b11.sol back/blues.png   3  bgm/track2.ogg
+map-htholesh/b12.sol back/blues.png   4  bgm/track1.ogg
+map-htholesh/b13.sol back/red_wht.png   3  bgm/track3.ogg
+map-htholesh/b14.sol back/blk_org.png   3  bgm/track5.ogg
+map-htholesh/b15.sol back/red_wht.png   7  bgm/track6.ogg
+map-htholesh/b16.sol back/ocean.png   2  bgm/track2.ogg
+map-htholesh/b17.sol back/red_wht.png   2  bgm/track5.ogg
+map-htholesh/b18.sol back/ocean.png   3  bgm/track3.ogg

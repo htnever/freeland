@@ -1,0 +1,21 @@
+shot-putt/htholese.jpg
+Freeland Holes\\Freeland throw itself in neverputt!\Difficulty: Beginner\Author: Andrea Del Santo & Giacomo Frate
+map-htholese/a1.sol back/red_wht.png   2  bgm/track3.ogg
+map-htholese/a1.sol back/red_wht.png   2  bgm/track3.ogg
+map-htholese/a2.sol back/red_wht.png   2  bgm/track3.ogg
+map-htholese/a3.sol back/red_wht.png   2  bgm/track3.ogg
+map-htholese/a4.sol back/red_wht.png   2  bgm/track3.ogg
+map-htholese/a5.sol back/red_wht.png   2  bgm/track3.ogg
+map-htholese/a6.sol back/red_wht.png   3  bgm/track3.ogg
+map-htholese/a7.sol back/red_wht.png   2  bgm/track3.ogg
+map-htholese/a8.sol back/red_wht.png   3  bgm/track3.ogg
+map-htholese/a9.sol back/red_wht.png   3  bgm/track3.ogg
+map-htholese/a10.sol back/red_wht.png   2  bgm/track3.ogg
+map-htholese/a11.sol back/red_wht.png   2  bgm/track3.ogg
+map-htholese/a12.sol back/red_wht.png   2  bgm/track3.ogg
+map-htholese/a13.sol back/red_wht.png   2  bgm/track3.ogg
+map-htholese/a14.sol back/red_wht.png   3  bgm/track3.ogg
+map-htholese/a15.sol back/red_wht.png   3  bgm/track3.ogg
+map-htholese/a16.sol back/red_wht.png   2  bgm/track3.ogg
+map-htholese/a17.sol back/red_wht.png   2  bgm/track3.ogg
+map-htholese/a18.sol back/red_wht.png   3  bgm/track3.ogg

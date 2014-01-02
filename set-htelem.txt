@@ -1,0 +1,30 @@
+Freeland Elements
+Easy Freestyle Levels!\Author: A. Del Santo
+hte
+shot-htelem/13.png
+
+map-htelem/01.sol
+map-htelem/02.sol
+map-htelem/03.sol
+map-htelem/04.sol
+map-htelem/I.sol
+map-htelem/05.sol
+map-htelem/06.sol
+map-htelem/07.sol
+map-htelem/08.sol
+map-htelem/II.sol
+map-htelem/09.sol
+map-htelem/10.sol
+map-htelem/11.sol
+map-htelem/12.sol
+map-htelem/III.sol
+map-htelem/13.sol
+map-htelem/14.sol
+map-htelem/15.sol
+map-htelem/16.sol
+map-htelem/IV.sol
+map-htelem/17.sol
+map-htelem/18.sol
+map-htelem/19.sol
+map-htelem/20.sol
+map-htelem/V.sol

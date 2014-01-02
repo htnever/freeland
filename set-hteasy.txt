@@ -1,0 +1,10 @@
+Freeland Easy
+Easy Freestyle Levels!\Author: A. Del Santo
+hte
+shot-hteasy/well.png
+
+map-hteasy/avoidit.sol
+map-hteasy/smallgrid.sol
+map-hteasy/well.sol
+map-hteasy/joust.sol
+map-hteasy/jump.sol
