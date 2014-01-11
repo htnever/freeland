@@ -1,0 +1,11 @@
+Freeland Tests
+Various deprecated / incubated maps\Author: A. Del Santo
+htt
+shot-htst/garden.png
+
+map-htst/adventure.sol
+map-htst/boxes.sol
+map-htst/demo.sol
+map-htst/garden.sol
+map-htst/hotway.sol
+map-htst/trail.sol
