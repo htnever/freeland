@@ -4,9 +4,7 @@ htn
 shot-hthard/soccer.png
 
 map-hthard/soccer.sol
-map-hthard/garden.sol
 map-hthard/roundway.sol
-map-hthard/timers.sol
 map-hthard/escape.sol
 map-hthard/killers.sol
 map-hthard/lap.sol
