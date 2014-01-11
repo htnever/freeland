@@ -1,7 +1,0 @@
-Freeland Elements
-Various deprecated / incubated maps\Author: A. Del Santo
-htl
-shot-htelem/13.png
-
-map-hthard/garden.sol
-map-hthard/timers.sol
