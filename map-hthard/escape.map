@@ -6778,33 +6778,9 @@
 {
 "classname" "info_camp"
 "origin" "448 64 -8"
-"timer" "12000"
 "target" "goal1"
 }
 // entity 34
-{
-"classname" "func_train"
-"target" "t300"
-// brush 0
-{
-( -208 299.9744262695 64 ) ( -208 212.0257110596 64 ) ( -304 212.0257110596 64 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
-( -304 212.0257110596 0 ) ( -208 212.0257110596 0 ) ( -208 299.9744262695 0 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
-( -280 288 64 ) ( -280 264 -64 ) ( -280 288 -64 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
-( -232 288 -64 ) ( -232 264 -64 ) ( -232 288 64 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
-( -280 296 -64 ) ( -264 296 -64 ) ( -280 296 64 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
-( -280 216 64 ) ( -256 216 -64 ) ( -280 216 -64 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
-}
-}
-// entity 35
-{
-"classname" "info_camp"
-"origin" "-128 256 -16"
-"radius" "1.2"
-"target" "t300"
-"invisible" "1"
-"timer" "12000"
-}
-// entity 36
 {
 "classname" "info_camp"
 "origin" "256 256 -16"
@@ -6813,49 +6789,49 @@
 "invisible" "1"
 "timer" "12000"
 }
-// entity 37
+// entity 35
 {
 "classname" "misc_model"
 "origin" "-256 256 0"
 "model" "obj/pin.obj"
 "target" "t300"
 }
-// entity 38
+// entity 36
 {
 "classname" "info_player_deathmatch"
 "origin" "-320 832 24"
 }
-// entity 39
+// entity 37
 {
 "classname" "light"
 "origin" "32 288 24"
 "light" "5"
 }
-// entity 40
+// entity 38
 {
 "classname" "light"
 "origin" "96 224 24"
 "light" "5"
 }
-// entity 41
+// entity 39
 {
 "classname" "light"
 "origin" "32 224 24"
 "light" "1"
 }
-// entity 42
+// entity 40
 {
 "classname" "light"
 "origin" "96 288 24"
 "light" "1"
 }
-// entity 43
+// entity 41
 {
 "classname" "target_position"
 "origin" "64 448 16"
 "targetname" "t40"
 }
-// entity 44
+// entity 42
 {
 "classname" "path_corner"
 "origin" "-128 832 48"
@@ -6863,13 +6839,13 @@
 "targetname" "goal1"
 "state" "0"
 }
-// entity 45
+// entity 43
 {
 "classname" "path_corner"
 "origin" "-128 832 -8"
 "targetname" "t37"
 }
-// entity 46
+// entity 44
 {
 "classname" "func_train"
 "target" "goal1"
@@ -7426,7 +7402,7 @@
 ( -323.1365203857 863.8458709717 39 ) ( -326.2428741455 863.3850860596 39 ) ( -323.1365203857 863.8458709717 33 ) mtrl/chrome 0 0 0 0.5 0.5 0 0 0
 }
 }
-// entity 47
+// entity 45
 {
 "classname" "info_camp"
 "origin" "256 256 0"
@@ -7434,13 +7410,13 @@
 "radius" "1.4"
 "invisible" "1"
 }
-// entity 48
+// entity 46
 {
 "classname" "path_corner"
 "origin" "-32 320 -4"
 "targetname" "t1"
 }
-// entity 49
+// entity 47
 {
 "classname" "path_corner"
 "origin" "-32 320 48"
@@ -7449,7 +7425,7 @@
 "speed" "0.5"
 "state" "0"
 }
-// entity 50
+// entity 48
 {
 "classname" "func_train"
 "target" "cancello_1"
@@ -7769,5 +7745,23 @@
 ( -37 274 4 ) ( -27 274 4 ) ( -27 274 2 ) mtrl/chrome 0 0 0 0.5 0.5 0 0 0
 ( 32 274 4.25 ) ( 32 278 4.25 ) ( 160 274 4.25 ) mtrl/chrome 0 0 0 0.5 0.5 0 0 0
 ( 160 274 3.75 ) ( 32 278 3.75 ) ( 32 274 3.75 ) mtrl/chrome 0 0 0 0.5 0.5 0 0 0
+}
+}
+// entity 49
+{
+"classname" "func_train"
+"target" "t300"
+// brush 0
+{
+( -216 296 64 ) ( -216 216 64 ) ( -296 296 64 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( -216 296 8 ) ( -296 296 8 ) ( -216 296 0 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( -216 296 8 ) ( -216 296 0 ) ( -216 216 8 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( -296 216 0 ) ( -216 216 0 ) ( -296 296 0 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( -296 216 0 ) ( -296 216 8 ) ( -216 216 0 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( -296 216 0 ) ( -296 296 0 ) ( -296 216 8 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( -296 232 64 ) ( -280 216 -64 ) ( -296 232 -64 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( -232 216 64 ) ( -216 232 -64 ) ( -232 216 -64 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( -232 296 -64 ) ( -216 280 -64 ) ( -232 296 64 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( -296 280 -64 ) ( -280 296 -64 ) ( -296 280 64 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
 }
 }
