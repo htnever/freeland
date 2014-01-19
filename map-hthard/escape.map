@@ -5251,9 +5251,8 @@
 // entity 8
 {
 "classname" "path_corner"
-"origin" "192 0 -8"
+"origin" "192 0 -4"
 "targetname" "t2"
-"target" "t6"
 }
 // entity 9
 {
@@ -5266,9 +5265,8 @@
 // entity 10
 {
 "classname" "path_corner"
-"origin" "256 0 -8"
+"origin" "256 0 -4"
 "targetname" "t4"
-"target" "t7"
 }
 // entity 11
 {
@@ -5281,9 +5279,8 @@
 // entity 12
 {
 "classname" "path_corner"
-"origin" "320 0 -8"
+"origin" "320 0 -4"
 "targetname" "t5"
-"target" "t11"
 }
 // entity 13
 {
