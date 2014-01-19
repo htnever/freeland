@@ -5227,21 +5227,18 @@
 "classname" "info_camp"
 "origin" "-128 256 0"
 "target" "t6"
-"timer" "12000"
 }
 // entity 5
 {
 "classname" "info_camp"
 "origin" "256 256 0"
 "target" "t7"
-"timer" "12000"
 }
 // entity 6
 {
 "classname" "info_camp"
 "origin" "256 640 0"
 "target" "t11"
-"timer" "12000"
 }
 // entity 7
 {
