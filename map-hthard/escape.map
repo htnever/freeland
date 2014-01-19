@@ -6102,7 +6102,6 @@
 "origin" "480 336 112"
 "targetname" "t18"
 "target" "t400"
-"angle" "60"
 "smooth" "0"
 "speed" "1.2"
 }
@@ -6114,13 +6113,11 @@
 "target" "t29"
 "smooth" "0"
 "speed" "1.2"
-"angle" "180"
 }
 // entity 20
 {
 "classname" "path_corner"
 "origin" "480 552 112"
-"angle" "120"
 "targetname" "t400"
 "target" "t20"
 "smooth" "0"
@@ -6133,7 +6130,6 @@
 "smooth" "0"
 "speed" "1.2"
 "targetname" "t29"
-"angle" "210"
 "target" "t24"
 }
 // entity 22
@@ -6141,7 +6137,6 @@
 "classname" "path_corner"
 "origin" "-112 432 112"
 "targetname" "t24"
-"angle" "240"
 "target" "t31"
 "smooth" "0"
 "speed" "1.2"
@@ -6151,7 +6146,6 @@
 "classname" "path_corner"
 "origin" "-160 256 112"
 "targetname" "t31"
-"angle" "270"
 "target" "t34"
 "smooth" "0"
 "speed" "0.5"
@@ -6160,7 +6154,6 @@
 {
 "classname" "path_corner"
 "origin" "-128 256 112"
-"angle" "360"
 "speed" "1.2"
 "targetname" "t34"
 "target" "t15"
