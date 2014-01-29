@@ -5227,18 +5227,21 @@
 "classname" "info_camp"
 "origin" "-128 256 0"
 "target" "t6"
+"timer" "6000"
 }
 // entity 5
 {
 "classname" "info_camp"
 "origin" "256 256 0"
 "target" "t7"
+"timer" "6000"
 }
 // entity 6
 {
 "classname" "info_camp"
 "origin" "256 640 0"
 "target" "t11"
+"timer" "6000"
 }
 // entity 7
 {
@@ -6747,7 +6750,7 @@
 "classname" "info_camp"
 "origin" "256 896 0"
 "target" "tlp1"
-"timer" "12000"
+"timer" "6000"
 }
 // entity 31
 {
@@ -6766,6 +6769,7 @@
 "classname" "info_camp"
 "origin" "448 64 -8"
 "target" "goal1"
+"timer" "6000"
 }
 // entity 34
 {
@@ -6774,7 +6778,7 @@
 "radius" "1.4"
 "target" "t300"
 "invisible" "1"
-"timer" "12000"
+"timer" "6000"
 }
 // entity 35
 {
@@ -7396,6 +7400,7 @@
 "target" "cancello_1"
 "radius" "1.4"
 "invisible" "1"
+"timer" "6000"
 }
 // entity 46
 {
