@@ -8,3 +8,4 @@ map-hteasy/smallgrid.sol
 map-hteasy/well.sol
 map-hteasy/joust.sol
 map-hteasy/jump.sol
+map-hteasy/top.sol
