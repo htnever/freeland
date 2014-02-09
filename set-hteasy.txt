@@ -9,3 +9,4 @@ map-hteasy/well.sol
 map-hteasy/joust.sol
 map-hteasy/jump.sol
 map-hteasy/top.sol
+map-hteasy/station.sol
