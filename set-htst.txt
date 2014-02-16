@@ -9,3 +9,4 @@ map-htst/demo.sol
 map-htst/garden.sol
 map-htst/hotway.sol
 map-htst/trail.sol
+map-htst/killers_v1.sol
