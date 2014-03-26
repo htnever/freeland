@@ -3112,7 +3112,7 @@
 // entity 24
 {
 "classname" "info_player_intermission"
-"origin" "-304.000000 -696.000000 1024.000000"
+"origin" "-48.000000 -696.000000 736.000000"
 "target" "target_position1"
 }
 // entity 25
